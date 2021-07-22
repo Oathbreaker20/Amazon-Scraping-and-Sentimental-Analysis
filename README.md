@@ -10,7 +10,6 @@
 #### Run backend
 `python classifire_flask.py`
 #### Run frontend
-`cd frontend` <br />
 `npm install` <br />
 `npm start`
 #### Working
