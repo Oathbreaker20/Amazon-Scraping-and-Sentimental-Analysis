@@ -8,10 +8,12 @@
 ## Usage
 
 #### Run backend
-
+`python classifire_flask.py`
 #### Run frontend
-
+`cd frontend` <br />
+`npm install` <br />
+`npm start`
 #### Working
-* Paste the link of a amazon product
+* Paste the link of a amazon product on the UI searchbar
 * Press search
 * Results will load in the form of text, graphs and pie chart
