@@ -8,7 +8,7 @@
 ## Usage
 
 #### Run backend
-`python classifire_flask.py`
+`python classifier_flask.py`
 #### Run frontend
 `npm install` <br />
 `npm start`
